@@ -76,6 +76,12 @@
     <Compile Include="Lab1\UserControlSelect.designer.cs">
       <DependentUpon>UserControlSelect.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lab2\ComponentLoadXml.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Lab2\ComponentLoadXml.designer.cs">
+      <DependentUpon>ComponentLoadXml.cs</DependentUpon>
+    </Compile>
     <Compile Include="Lab2\ExelTable.cs">
       <SubType>Component</SubType>
     </Compile>
