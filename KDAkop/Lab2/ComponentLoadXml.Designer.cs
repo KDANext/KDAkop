@@ -1,4 +1,4 @@
-﻿namespace NoVisualComponents
+﻿namespace KDAkop
 {
     partial class ComponentLoadXml
     {

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Collections;
 using static System.Windows.Forms.CheckedListBox;
 
-namespace Var35n6n18n27
+namespace KDAkop
 {
 
     public partial class UserControlSelect : UserControl

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Var35n6n18n27
+namespace KDAkop
 {
     public partial class UserControlInput : UserControl
     {

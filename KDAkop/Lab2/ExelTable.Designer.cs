@@ -1,4 +1,4 @@
-﻿namespace KDAkop.Lab2
+﻿namespace KDAkop
 {
     partial class ExelTable
     {

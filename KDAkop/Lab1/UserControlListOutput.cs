@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Reflection;
 
-namespace Var35n6n18n27
+namespace KDAkop
 {
     public partial class UserControlListOutput : UserControl
     {

@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace KDAkop.Lab2
+namespace KDAkop
 {
     public partial class ExelTable : Component
     {

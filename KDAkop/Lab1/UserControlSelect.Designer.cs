@@ -1,4 +1,4 @@
-﻿namespace Var35n6n18n27
+﻿namespace KDAkop
 {
     partial class UserControlSelect
     {
