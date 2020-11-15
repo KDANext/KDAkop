@@ -57,6 +57,12 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Xceed.Document.NET, Version=1.7.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocX.1.7.1\lib\net40\Xceed.Document.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Words.NET, Version=1.7.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocX.1.7.1\lib\net40\Xceed.Words.NET.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Lab1\UserControlInput.cs">
@@ -91,6 +97,12 @@
     </Compile>
     <Compile Include="Lab2\PdfCellParameters.cs" />
     <Compile Include="Lab2\PdfRowParameters.cs" />
+    <Compile Include="Lab2\WordDiagram.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Lab2\WordDiagram.Designer.cs">
+      <DependentUpon>WordDiagram.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
