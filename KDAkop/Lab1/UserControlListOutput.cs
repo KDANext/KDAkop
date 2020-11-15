@@ -40,6 +40,7 @@ namespace Var35n6n18n27
         public void UpdateTree()
         {
             if (Order == null) return;
+            if (items == null || items.Count == 0) return;
             treeView.BeginUpdate();
             var Node = treeView.Nodes;
             Type t = items[0].GetType();
