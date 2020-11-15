@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDAkop", "KDAkop\KDAkop.csproj", "{D09BD47C-0139-4F7B-9378-B46CB6CE261F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDAForm", "KDAForm\KDAForm.csproj", "{E07EDDF3-B5C1-43CD-93CE-81A6F22C9271}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "componentsNikitino", "Nekit\componentsNikitino.csproj", "{612914B1-C3A4-41DB-A065-12F5A6CA3D3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "components36", "Dimon\components36.csproj", "{EB11A61C-FAE5-415F-8305-DD2446ECDDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryControlSelected", "Nekit1\ClassLibraryControlSelected.csproj", "{FBBBED02-B856-455F-9392-290943A0691D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{D09BD47C-0139-4F7B-9378-B46CB6CE261F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D09BD47C-0139-4F7B-9378-B46CB6CE261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D09BD47C-0139-4F7B-9378-B46CB6CE261F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07EDDF3-B5C1-43CD-93CE-81A6F22C9271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07EDDF3-B5C1-43CD-93CE-81A6F22C9271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07EDDF3-B5C1-43CD-93CE-81A6F22C9271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07EDDF3-B5C1-43CD-93CE-81A6F22C9271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612914B1-C3A4-41DB-A065-12F5A6CA3D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612914B1-C3A4-41DB-A065-12F5A6CA3D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612914B1-C3A4-41DB-A065-12F5A6CA3D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612914B1-C3A4-41DB-A065-12F5A6CA3D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB11A61C-FAE5-415F-8305-DD2446ECDDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB11A61C-FAE5-415F-8305-DD2446ECDDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB11A61C-FAE5-415F-8305-DD2446ECDDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB11A61C-FAE5-415F-8305-DD2446ECDDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBBED02-B856-455F-9392-290943A0691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBBED02-B856-455F-9392-290943A0691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBBED02-B856-455F-9392-290943A0691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBBED02-B856-455F-9392-290943A0691D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
